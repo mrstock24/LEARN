@@ -6,8 +6,18 @@
   },
   {
     "title": "CISSP, 3 in 1- Beginner's Guide to Learn the Realms of Security and Risk Management from A-Z using",
+    "category": "Uncategorised",
+    "path": "books/CISSP, 3 in 1- Beginner's Guide to Learn the Realms of Security and Risk Management from A-Z using.epub"
+  },
+  {
+    "title": "CISSP, 3 in 1- Beginner's Guide to Learn the Realms of Security and Risk Management from A-Z using",
     "category": "Computer Science",
     "path": "books/Computer Science/CISSP, 3 in 1- Beginner's Guide to Learn the Realms of Security and Risk Management from A-Z using.epub"
+  },
+  {
+    "title": "CRISC Certified in Risk and Information Systems Control All-in-One Exam Guide, Second Edition",
+    "category": "Uncategorised",
+    "path": "books/CRISC Certified in Risk and Information Systems Control All-in-One Exam Guide, Second Edition.epub"
   },
   {
     "title": "Deep Learning Illustrated",
@@ -48,5 +58,10 @@
     "title": "SQL - Felix Alvaro",
     "category": "Computer Science",
     "path": "books/Computer Science/SQL - Felix Alvaro.epub"
+  },
+  {
+    "title": "The Science of Self-Learning by Peter Hollins",
+    "category": "Uncategorised",
+    "path": "books/The Science of Self-Learning by Peter Hollins.epub"
   }
 ]
